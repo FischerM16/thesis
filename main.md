@@ -7,6 +7,7 @@ Changes made in TextEdit
 
 ## important theories
 Goethe said...
+Perhaps I should change something online on Github and pull it towards my hard drive.
 
 ## experiments
 so much to do...

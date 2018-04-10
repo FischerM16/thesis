@@ -2,6 +2,7 @@
 
 ## introduction
 I was motivated because...
+Changes made in TextEdit
 
 
 ## important theories

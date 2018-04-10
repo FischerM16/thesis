@@ -16,7 +16,10 @@ plot plot plot..
 
 
 ## Bibliography
-
+[1] Goethe
+[2] Schiller
+[3] Lessing
 
 
 ## Appendix
+I am the greatest.
